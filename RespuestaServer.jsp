@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Banco en Linea</title>
+		<title>Banco en Linea 12</title>
 	</head>
 	<body>
 		<h1>Datos de los clientes</h1>
